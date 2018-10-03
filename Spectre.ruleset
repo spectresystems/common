@@ -24,6 +24,7 @@
     <Rule Id="SA1516" Action="None" /> <!-- ElementsMustBeSeparatedByBlankLine -->
     <Rule Id="SA1600" Action="None" /> <!-- ElementsMustBeDocumented -->
     <Rule Id="SA1625" Action="None" /> <!-- ElementDocumentationMustNotBeCopiedAndPasted -->
+    <Rule Id="SA1633" Action="None" /> <!-- FileMustHaveHeader -->
     <Rule Id="SA1636" Action="None" /> <!-- FileHeaderCopyrightTextMustMatch -->
     <Rule Id="SA1649" Action="None" /> <!-- FileNameMustMatchTypeName -->
   </Rules>
