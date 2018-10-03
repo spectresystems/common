@@ -34,6 +34,7 @@
     <Rule Id="SA1600" Action="None" /> <!-- ElementsMustBeDocumented -->
     <Rule Id="SA1601" Action="None" /> <!-- PartialElementsMustBeDocumented -->
     <Rule Id="SA1602" Action="None" /> <!-- EnumerationItemsMustBeDocumented -->
+    <Rule Id="SA1611" Action="None" /> <!-- ElementParametersMustBeDocumented -->
     <Rule Id="SA1612" Action="None" /> <!-- ElementParameterDocumentationMustMatchElementParameters -->
     <Rule Id="SA1625" Action="None" /> <!-- ElementDocumentationMustNotBeCopiedAndPasted -->
     <Rule Id="SA1633" Action="None" /> <!-- FileMustHaveHeader -->
